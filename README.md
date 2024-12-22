@@ -1,16 +1,10 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/60/25/48/602548f4c91737c5d6aa8aae5c6457f9.jpg"  />
+  <img src="https://i.pinimg.com/736x/60/25/48/602548f4c91737c5d6aa8aae5c6457f9.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kendrekaran/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/kendrekaran_">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</a>
 
 ###
 
@@ -51,8 +45,6 @@ I'm Karan from India.<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" 
@@ -65,8 +57,6 @@ I'm Karan from India.<br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
 </div>
 
@@ -74,16 +64,28 @@ I'm Karan from India.<br><br>
 
 <h3 align="left">🌟 Projects</h3>
 
-###
-
-<h3 align="left">
-- **[Portfolio](https://www.karank.tech/)**: My portfolio website.
-- **[Cloud Clipper](https://cloudclipper.vercel.app)**: A Online video downloader.
-- **[Gym Tracker](https://fittrackdemo.vercel.app/)**: A web application to access different exercises.
-- **[Hykrox](https://hykrox.vercel.app/)**: A landing page website for businesses.
-- **[Surface Insight](https://surface-insight.vercel.app/)**: A landing page website made with different animations for businesses.
-- **[Cafe Landing Page](https://coffee-rho-ten.vercel.app/)**: A pixel-perfect landing page for Cafe businesses.
-</h3>
+<div align="left">
+  <ul>
+    <li>
+      <strong><a href="https://www.karank.tech/" target="_blank">Portfolio</a></strong>: My portfolio website showcasing my skills and work.
+    </li>
+    <li>
+      <strong><a href="https://cloudclipper.vercel.app" target="_blank">Cloud Clipper</a></strong>: An online video downloader with a sleek interface.
+    </li>
+    <li>
+      <strong><a href="https://fittrackdemo.vercel.app/" target="_blank">Gym Tracker</a></strong>: A web application to explore and track different exercises.
+    </li>
+    <li>
+      <strong><a href="https://hykrox.vercel.app/" target="_blank">Hykrox</a></strong>: A landing page website tailored for businesses.
+    </li>
+    <li>
+      <strong><a href="https://surface-insight.vercel.app/" target="_blank">Surface Insight</a></strong>: A dynamic landing page with stunning animations designed for businesses.
+    </li>
+    <li>
+      <strong><a href="https://coffee-rho-ten.vercel.app/" target="_blank">Cafe Landing Page</a></strong>: A pixel-perfect landing page for cafe businesses with a modern design.
+    </li>
+  </ul>
+</div>
 
 ###
 
