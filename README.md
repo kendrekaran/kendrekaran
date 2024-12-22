@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://i.pinimg.com/736x/60/25/48/602548f4c91737c5d6aa8aae5c6457f9.jpg)"  />
+  <img height="150" src="https://i.pinimg.com/736x/60/25/48/602548f4c91737c5d6aa8aae5c6457f9.jpg"  />
 </div>
 
 ###
@@ -76,12 +76,14 @@ I'm Karan from India.<br><br>
 
 ###
 
+<h3 align="left">
 - **[Portfolio](https://www.karank.tech/)**: My portfolio website.
 - **[Cloud Clipper](https://cloudclipper.vercel.app)**: A Online video downloader.
 - **[Gym Tracker](https://fittrackdemo.vercel.app/)**: A web application to access different exercises.
 - **[Hykrox](https://hykrox.vercel.app/)**: A landing page website for businesses.
 - **[Surface Insight](https://surface-insight.vercel.app/)**: A landing page website made with different animations for businesses.
 - **[Cafe Landing Page](https://coffee-rho-ten.vercel.app/)**: A pixel-perfect landing page for Cafe businesses.
+</h3>
 
 ###
 
@@ -96,15 +98,6 @@ I'm Karan from India.<br><br>
 
 ###
 
-<h3 align="left">📈 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=karankendre&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
 
 <h3 align="left">📬 Get in Touch</h3>
 
