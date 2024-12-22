@@ -1,69 +1,48 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/60/25/48/602548f4c91737c5d6aa8aae5c6457f9.jpg"  />
+  <img src="https://pbs.twimg.com/media/Ge2mBZxaYAA4Mkb?format=jpg&name=900x900" height="250" alt="Profile Banner" />
 </div>
 
-###
-
 <div align="center">
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=karankendre.karankendre&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=karankendre.karankendre&" alt="Visitor Badge" />
 </div>
-
-###
 
 <h1 align="center">Hey there 👋, I'm Karan Govind Kendre!</h1>
 
-###
-
 <h3 align="left">👩‍💻 About Me</h3>
-
-###
-
 <p align="left">
 I'm Karan from India.<br><br>
 - 🔭 I’m currently working on improving my skills in full-stack development.<br>
 - 📚 I'm currently learning the MERN stack and planning to explore DevOps next.<br>
-- ⚡ In my free time, I create React and NextJs based projects, build animations, and do freelancing work.<br>
+- ⚡ In my free time, I create React and Next.js-based projects, build animations, and do freelancing work.<br>
 - 🎯 I aspire to be picture-perfect in the Web Development field.<br>
 </p>
 
-###
-
 <h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="MongoDB" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="Prisma" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" alt="CSS3" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" alt="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
 </div>
 
-###
-
 <h3 align="left">🌟 Projects</h3>
-
 <div align="left">
   <ul>
     <li>
@@ -87,29 +66,20 @@ I'm Karan from India.<br><br>
   </ul>
 </div>
 
-###
-
 <h3 align="left">💡 My Goals</h3>
-
-###
-
-- 🚀 Master full-stack development (MERN stack).  
-- 🌱 Learn and implement DevOps tools like Docker, Kubernetes, and CI/CD pipelines.  
-- 🎨 Become proficient in UI/UX design principles.  
-- 🌍 Contribute to open-source projects and grow as a developer.  
-
-###
-
+<ul>
+  <li>🚀 Master full-stack development (MERN stack).</li>
+  <li>🌱 Learn and implement DevOps tools like Docker, Kubernetes, and CI/CD pipelines.</li>
+  <li>🎨 Become proficient in UI/UX design principles.</li>
+  <li>🌍 Contribute to open-source projects and grow as a developer.</li>
+</ul>
 
 <h3 align="left">📬 Get in Touch</h3>
-
-###
-
-- Email: [karankendreg@gmail.com](mailto:karankendreg@gmail.com)  
-- LinkedIn: [karankendre](https://www.linkedin.com/in/kendrekaran/)  
-- Portfolio: [karankendre.dev](https://karank.tech)
-
-###
+<ul>
+  <li>Email: <a href="mailto:karankendreg@gmail.com">karankendreg@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/kendrekaran/" target="_blank">karankendre</a></li>
+  <li>Portfolio: <a href="https://karank.tech" target="_blank">karankendre.dev</a></li>
+</ul>
 
 <div align="center">
   <h3>Thank you for stopping by! 😊</h3>
