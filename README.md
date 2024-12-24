@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pbs.twimg.com/media/Ge2mBZxaYAA4Mkb?format=jpg&name=900x900" height="250" alt="Profile Banner" />
+  <img src="https://pbs.twimg.com/media/Ge2mBZxaYAA4Mkb?format=jpg&name=900x900" height="250" width="auto" alt="Profile Banner" />
 </div>
 
 <div align="center">
@@ -55,13 +55,16 @@ I'm Karan from India.<br><br>
       <strong><a href="https://fittrackdemo.vercel.app/" target="_blank">Gym Tracker</a></strong>: A web application to explore and track different exercises.
     </li>
     <li>
-      <strong><a href="https://hykrox.vercel.app/" target="_blank">Hykrox</a></strong>: A landing page website tailored for businesses.
+      <strong><a href="https://zen-ops.vercel.app/" target="_blank">ZenOps</a></strong>: A landing page website tailored for Saas Product
+    </li>
+    <li>
+      <strong><a href="https://hy-krox.vercel.app/" target="_blank">Hykrox</a></strong>: A landing page website tailored for businesses.
     </li>
     <li>
       <strong><a href="https://surface-insight.vercel.app/" target="_blank">Surface Insight</a></strong>: A dynamic landing page with stunning animations designed for businesses.
     </li>
     <li>
-      <strong><a href="https://coffee-rho-ten.vercel.app/" target="_blank">Cafe Landing Page</a></strong>: A pixel-perfect landing page for cafe businesses with a modern design.
+      <strong><a href="https://cafesta.vercel.app/" target="_blank">Cafe Landing Page</a></strong>: A pixel-perfect landing page for cafe businesses with a modern design.
     </li>
   </ul>
 </div>
