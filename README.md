@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Karan Kendre!</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=karankendre.karankendre&" alt="Visitor Badge" />
+  <img src="https://img.shields.io/github/followers/kendrekaran?label=Followers&logo=github&style=for-the-badge" alt="GitHub Badge" />
   <!-- Github Followers -->
   <img src="https://img.shields.io/github/followers/kendrekaran?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
 
