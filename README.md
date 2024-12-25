@@ -1,12 +1,13 @@
-<div align="center">
-  <img src="https://pbs.twimg.com/media/Ge2mBZxaYAA4Mkb?format=jpg&name=900x900" height="250" width="auto" alt="Profile Banner" />
-</div>
+
+<h1 align="center">Hey there 👋, I'm Karan Govind Kendre!</h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=karankendre.karankendre&" alt="Visitor Badge" />
+  ![Twitter Followers](https://img.shields.io/twitter/follow/[kendrekaran_]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
+  ![Github Followers](https://img.shields.io/github/followers/[kendrekaran]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
+  ![Github Stars](https://img.shields.io/github/stars/[kendrekaran]?label=Stars&logo=[VALID_LOGO]&style=[STYLE])
 </div>
 
-<h1 align="center">Hey there 👋, I'm Karan Govind Kendre!</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
@@ -69,13 +70,9 @@ I'm Karan from India.<br><br>
   </ul>
 </div>
 
-<h3 align="left">💡 My Goals</h3>
-<ul>
-  <li>🚀 Master full-stack development (MERN stack).</li>
-  <li>🌱 Learn and implement DevOps tools like Docker, Kubernetes, and CI/CD pipelines.</li>
-  <li>🎨 Become proficient in UI/UX design principles.</li>
-  <li>🌍 Contribute to open-source projects and grow as a developer.</li>
-</ul>
+<div align="center">
+![Karan's github stats](https://github-readme-stats.vercel.app/api?username=kendrekaran&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</div>
 
 <h3 align="left">📬 Get in Touch</h3>
 <ul>
