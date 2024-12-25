@@ -1,18 +1,17 @@
 
-<h1 align="center">Hey there 👋, I'm Karan Govind Kendre!</h1>
+<h1 align="center">Hey there 👋, I'm Karan Kendre!</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kendrekaran.kendrekaran" alt="Visitor Badge" />
-  
-  <!-- Twitter Followers -->
-  <img src="https://img.shields.io/twitter/follow/kendrekaran_?label=Followers&logo=twitter&style=for-the-badge" alt="Twitter Followers" />
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=karankendre.karankendre&" alt="Visitor Badge" />
   <!-- Github Followers -->
   <img src="https://img.shields.io/github/followers/kendrekaran?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
 
   <!-- Github Stars -->
   <img src="https://img.shields.io/github/stars/kendrekaran?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
   <!-- GitHub Stats -->
