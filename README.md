@@ -2,11 +2,23 @@
 <h1 align="center">Hey there 👋, I'm Karan Govind Kendre!</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=karankendre.karankendre&" alt="Visitor Badge" />
-  ![Twitter Followers](https://img.shields.io/twitter/follow/[kendrekaran_]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
-  ![Github Followers](https://img.shields.io/github/followers/[kendrekaran]?label=Followers&logo=[VALID_LOGO]&style=[STYLE])
-  ![Github Stars](https://img.shields.io/github/stars/[kendrekaran]?label=Stars&logo=[VALID_LOGO]&style=[STYLE])
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kendrekaran.kendrekaran" alt="Visitor Badge" />
+  
+  <!-- Twitter Followers -->
+  <img src="https://img.shields.io/twitter/follow/kendrekaran_?label=Followers&logo=twitter&style=for-the-badge" alt="Twitter Followers" />
+
+  <!-- Github Followers -->
+  <img src="https://img.shields.io/github/followers/kendrekaran?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+
+  <!-- Github Stars -->
+  <img src="https://img.shields.io/github/stars/kendrekaran?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
 </div>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kendrekaran&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Karan's GitHub Stats" />
+</div>
+
 
 
 <h3 align="left">👩‍💻 About Me</h3>
@@ -70,9 +82,6 @@ I'm Karan from India.<br><br>
   </ul>
 </div>
 
-<div align="center">
-![Karan's github stats](https://github-readme-stats.vercel.app/api?username=kendrekaran&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-</div>
 
 <h3 align="left">📬 Get in Touch</h3>
 <ul>
