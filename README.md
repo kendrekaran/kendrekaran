@@ -2,7 +2,8 @@
 <h1 align="center">Hey there 👋, I'm Karan Kendre!</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/kendrekaran?label=Followers&logo=github&style=for-the-badge" alt="GitHub Badge" />
+  <img src="https://komarev.com/ghpvc/?username=kendrekaran&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
   <!-- Github Followers -->
   <img src="https://img.shields.io/github/followers/kendrekaran?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
 
