@@ -14,7 +14,9 @@
 
 <br/>
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kendrekaran)](https://git.io/streak-stats)]
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kendrekaran)](https://git.io/streak-stats)
 </div>
 <br/>
 
