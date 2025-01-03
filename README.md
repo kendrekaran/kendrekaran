@@ -2,6 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Karan Kendre!</h1>
 
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=kendrekaran&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
   <!-- Github Followers -->
@@ -12,6 +13,10 @@
 </div>
 
 <br/>
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kendrekaran)](https://git.io/streak-stats)
+
 <br/>
 
 
