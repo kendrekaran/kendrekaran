@@ -58,13 +58,13 @@ I'm Karan from India.<br><br>
 <div align="left">
   <ul>
     <li>
+      <strong><a href="https://eleweight.in/" target="_blank">Gym Tracker</a></strong>: A web application to explore and track different exercises.
+    </li>
+    <li>
       <strong><a href="https://www.karank.tech/" target="_blank">Portfolio</a></strong>: My portfolio website showcasing my skills and work.
     </li>
     <li>
       <strong><a href="https://cloudclipper.vercel.app" target="_blank">Cloud Clipper</a></strong>: An online video downloader with a sleek interface.
-    </li>
-    <li>
-      <strong><a href="https://fittrackdemo.vercel.app/" target="_blank">Gym Tracker</a></strong>: A web application to explore and track different exercises.
     </li>
     <li>
       <strong><a href="https://zen-ops.vercel.app/" target="_blank">ZenOps</a></strong>: A landing page website tailored for Saas Product
