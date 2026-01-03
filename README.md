@@ -20,73 +20,44 @@
 
 
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 <p align="left">
 I'm Karan from India.<br><br>
-- 🔭 I’m currently working on improving my skills in full-stack development.<br>
-- 📚 I'm currently learning the MERN stack and planning to explore DevOps next.<br>
-- ⚡ In my free time, I create React and Next.js-based projects, build animations, and do freelancing work.<br>
-- 🎯 I aspire to be picture-perfect in the Web Development field.<br>
+- I'm currently working as a Frontend Developer at <a href="https://keizerworks.com" target="_blank">Keizer</a>.<br>
+- Previously worked as a Freelancer for various national and international clients.<br>
+- I'm a Designer Engineer - A Developer who can Design.<br>
 </p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="MongoDB" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="Prisma" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" alt="CSS3" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" alt="HTML5" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
-</div>
 
 <h3 align="left">🌟 Projects</h3>
 <div align="left">
   <ul>
     <li>
-      <strong><a href="https://eleweight.in/" target="_blank">Gym Tracker</a></strong>: A web application to explore and track different exercises.
+      <strong><a href="https://clip-path-library.vercel.app/" target="_blank">Clip Path Library</a></strong>: A library showcasing various clip path animations built with Next.js, Tailwind CSS, and Framer Motion.
     </li>
     <li>
-      <strong><a href="https://www.karank.tech/" target="_blank">Portfolio</a></strong>: My portfolio website showcasing my skills and work.
+      <strong><a href="https://www.eleweight.in/home" target="_blank">Eleweight</a></strong>: A full-stack web application built with React, Node.js, Express, and MongoDB for tracking exercises and workouts.
     </li>
     <li>
-      <strong><a href="https://cloudclipper.vercel.app" target="_blank">Cloud Clipper</a></strong>: An online video downloader with a sleek interface.
+      <strong><a href="https://takeyuforward.vercel.app/" target="_blank">takeUforward Landing Page</a></strong>: A landing page website built with Next.js and Tailwind CSS featuring testimonials.
     </li>
     <li>
-      <strong><a href="https://zen-ops.vercel.app/" target="_blank">ZenOps</a></strong>: A landing page website tailored for Saas Product
+      <strong><a href="https://zen-ops.vercel.app/" target="_blank">ZenOps Landing Page</a></strong>: A landing page website tailored for SaaS products, built with Next.js and Tailwind CSS.
     </li>
     <li>
-      <strong><a href="https://hy-krox.vercel.app/" target="_blank">Hykrox</a></strong>: A landing page website tailored for businesses.
-    </li>
-    <li>
-      <strong><a href="https://surface-insight.vercel.app/" target="_blank">Surface Insight</a></strong>: A dynamic landing page with stunning animations designed for businesses.
-    </li>
-    <li>
-      <strong><a href="https://cafesta.vercel.app/" target="_blank">Cafe Landing Page</a></strong>: A pixel-perfect landing page for cafe businesses with a modern design.
+      <strong><a href="https://hy-krox.vercel.app/" target="_blank">HY-Krox Agency Landing Page</a></strong>: A landing page website tailored for businesses, built with Next.js and Tailwind CSS.
     </li>
   </ul>
 </div>
 
 
-<h3 align="left">📬 Get in Touch</h3>
+<h3 align="left">Get in Touch</h3>
 <ul>
   <li>Email: <a href="mailto:karankendreg@gmail.com">karankendreg@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/kendrekaran/" target="_blank">karankendre</a></li>
-  <li>Portfolio: <a href="https://karank.tech" target="_blank">karankendre.dev</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/kendrekaran" target="_blank">kendrekaran</a></li>
+  <li>Twitter/X: <a href="https://x.com/karaan_dev" target="_blank">@karaan_dev</a></li>
+  <li>GitHub: <a href="https://github.com/kendrekaran" target="_blank">kendrekaran</a></li>
+  <li>Portfolio: <a href="https://www.karaan.me" target="_blank">karaan.me</a></li>
 </ul>
 
 <div align="center">
