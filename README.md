@@ -23,7 +23,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">
 I'm Karan from India.<br><br>
-- I'm currently working as a Frontend Developer at <a href="https://keizerworks.com" target="_blank">Keizer</a>.<br>
+- I'm currently working as a Frontend Developer at <a href="https://kargul.studio" target="_blank">Kargul Studio</a>.<br>
 - Previously worked as a Freelancer for various national and international clients.<br>
 - I'm a Designer Engineer - A Developer who can Design.<br>
 </p>
